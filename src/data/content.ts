@@ -54,7 +54,7 @@ export const historiaImages: HistoriaImage[] = [
   { url: '/cosecha.jpg', title: 'Cosecha ancestral', subtitle: 'Recolectada a mano en la sierra' },
   { url: '/mujeres_trabajando.jpg', title: 'Comunidad y tradición', subtitle: 'Trabajo honesto en origen' },
   { url: '/paisaje.jpg', title: 'Sierra central del Perú', subtitle: 'Donde todo comienza' },
-  { url: '/maca_granel_.jpg', title: 'Maca en estado puro', subtitle: 'Calidad seleccionada' },
+  { url: '/maca_granel__.jpg', title: 'Maca en estado puro', subtitle: 'Calidad seleccionada' },
 ];
 
 export interface infoProducts {
