@@ -93,7 +93,7 @@ export const faqs: FaqItem[] = [
   ['¿Qué significa gelatinizada?', 'Es un proceso suave que elimina el almidón y hace que la maca sea más fácil de digerir, manteniendo sus propiedades.'],
   ['¿Qué beneficios me aporta?', 'Entre sus principales componentes la maca aporta: Carbohidratos; Fibras; Proteínas; Minerales: K, Mg, Fe; Glucosinatos; Aminoácidos; Vitaminas del complejo B, C y E'],
   ['¿Qué variedad es?', 'Nuestra maca es un blend natural de las tres variedades: amarilla, roja y negra. Mantenemos la mezcla tal como nace en la tierra para ofrecerte un perfil nutricional completo, combinando lo mejor de cada una.'],
-  ['¿Es 100% Maca?', 'Sí, 100% maca pura y original.Frente a la abundancia de productos de dudosa procedencia, nos aseguramos de ofrecerte un superalimento certificado desde su origen, que cumple estrictamente con las normativas y controles sanitarios del país.'],
+  ['¿Es 100% Maca?', 'Sí, 100% maca pura y original. Somos el 1er importador de maca auténtica. Frente a la abundancia de productos de dudosa procedencia, nos aseguramos de ofrecerte un superalimento certificado desde su origen, que cumple estrictamente con las normativas y controles sanitarios del país.'],
 ].map(([question, answer]) => ({ question, answer }));
 
 export interface ValueCard {
